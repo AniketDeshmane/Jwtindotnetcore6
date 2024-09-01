@@ -1,5 +1,5 @@
 
-# JWT Authentication in ASP.NET API
+# JWT Authentication in ASP.NET Core 6 API
 
 For using Sqlite with Entity core, refer this project 
 ```
